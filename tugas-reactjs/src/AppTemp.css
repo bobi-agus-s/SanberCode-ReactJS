@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 50px;
+}
+
+.card {
+  width: 80%;
+  padding: 30px 10px;
+  border-radius: 7px;
+  box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.43);
+  border: 1px solid rgba(0,0,0, 0.2)
+}
+
+.card-title {
+  border-bottom: 0.125rem solid rgba(0,0,0, 0.3);
+}
+
+.count {
+  display: block;
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.btn-tambah {
+  width: 100%;
+  padding: 5px 0;
+  border: 0.10rem solid rgba(0,0,0, 0.150);
+  border-radius: 7px;
+}
+
+.alert {
+  margin-top: 10px;
+}

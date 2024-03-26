@@ -1,0 +1,4 @@
+// Tugas 1 - Membuat Repo Gitlab
+Tugas 1 React JS.
+Link Repo :
+https://gitlab.com/bobi_agus_s/sanbercode-reactjs
